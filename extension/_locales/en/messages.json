@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Always Five for Reittiopas.fi",
+    "description": "Chrome Extension name"
+  },
+  "extDescription": {
+    "message": "Always show five results on Reittiopas",
+    "description": "Chrome Extension description"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Always Five — Reittiopas.fi",
+    "description": "Chrome Extension nimi"
+  },
+  "extDescription": {
+    "message": "Näytä aina viisi reittiehdotusta Reittioppaassa",
+    "description": "Chrome Extension kuvaus"
+  }
+}
